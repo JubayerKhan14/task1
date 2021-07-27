@@ -27,3 +27,9 @@ a{
     margin: 5px;
     border-radius: 30px;
 }
+.two{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-image: url(images/shapes/7.png);
+}
