@@ -43,7 +43,7 @@ a{
    
 }
 .three div img {
-    width: 100%;
+    width: 90%;
    border-radius: 20px;
    text-align: center;
     
@@ -56,5 +56,4 @@ a{
     background-color: white;
     padding:20px;
     margin:35px;
-    
-}
+    }
