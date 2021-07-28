@@ -10,7 +10,8 @@ h1{
     font-size: 40px;
 }
 p{
-    color: brown;
+    color: rgb(184, 50, 50);
+    font-size: 15px;
 }
 .orange-color{
     color: orange;
@@ -29,7 +30,31 @@ a{
 }
 .two{
     display: flex;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 150px;
+    margin-bottom: 200px;
     background-image: url(images/shapes/7.png);
+}
+.centre-text{
+    text-align: center;
+}
+.three{
+    display: flex;
+   
+   
+}
+.three div img {
+    width: 100%;
+   border-radius: 20px;
+   text-align: center;
+    
+}
+.box{
+    width:30%;
+    float:left;
+    box-shadow:10px 10px 50px gray ;
+    border-radius: 15px;
+    background-color: white;
+    padding:20px;
+    margin:35px;
+    
 }
